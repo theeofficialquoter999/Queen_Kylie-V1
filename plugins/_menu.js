@@ -54,7 +54,7 @@ astro_patch.smd({
     } else if (hours >= 18 && hours < 22) {
       greeting = "Good Evenin'👸❤️🧸!";
     } else {
-      greeting = "Goodnight 👸❤️🧸!";
+      greeting = "Go Sleep, it's late👸❤️🧸!";
     }
 
     const commandCategories = {};
