@@ -15,6 +15,8 @@
 
 ### DEPLOY ON RENDER
 
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
@@ -44,6 +46,7 @@
 
 
 
+#### DEPLOY ON KOYEB
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
@@ -51,11 +54,13 @@
 
 
 
- #### DEPLOY TO RAILWAY
+ #### DEPLOY ON RAILWAY
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=blue=for-the-badge&logo=railway'/></a></p>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
 --------
+
+
 
 ## THIS SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
