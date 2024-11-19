@@ -56,11 +56,11 @@
 
  #### DEPLOY ON RAILWAY
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=white&style=for-the-badge&logo=railway'/></a></p>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=red&style=for-the-badge&logo=railway'/></a></p>
 
 --------
 
-#### DEPLOY TO CODESPACE
+#### DEPLOY TO CODESPACES
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
