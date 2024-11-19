@@ -34,6 +34,8 @@
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/errrbodyhatescylee/Queen_Kylie-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
+--------
+
 #### DEPLOY IN REPLIT
 
    <a href='https://repl.it/github/SuhailTechInfo/suhailmd-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
