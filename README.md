@@ -15,7 +15,7 @@
 
 ### DEPLOY ON RENDER
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=black&style=for-the-badge&logo=render'/></a></p>
 
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
@@ -56,7 +56,7 @@
 
  #### DEPLOY ON RAILWAY
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=Grey&style=for-the-badge&logo=railway'/></a></p>
 
 --------
 
