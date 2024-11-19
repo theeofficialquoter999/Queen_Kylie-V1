@@ -56,7 +56,7 @@
 
  #### DEPLOY ON RAILWAY
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=Grey&style=for-the-badge&logo=railway'/></a></p>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=white&style=for-the-badge&logo=railway'/></a></p>
 
 --------
 
