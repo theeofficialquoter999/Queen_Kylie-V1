@@ -7,7 +7,7 @@
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://kylie-session.onrender.com"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://kylie-session.onrender.com"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get SESSION_ID-Pair/QR-Code" width="90"></a>
 
 
 ### DEPLOY ON RENDER
