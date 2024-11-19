@@ -23,22 +23,36 @@
 
 ### DEPLOY ON HEROKU
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+--------
+
 1. If you don't have an account in Heroku, create one.
     <br>
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 2. Now deploy.
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/errrbodyhatescylee/Queen_Kylie-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
-1. Deploy.
-    <br>
-    <a href='https://replit.com/github.com/errrbodyhatescylee/Queen_Kylie-V1 target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+#### DEPLOY IN REPLIT
+
+   <a href='https://repl.it/github/SuhailTechInfo/suhailmd-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+--------
 
 
 
     #### DEPLOY IN KOYEB
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+--------
+
+
+
+ #### DEPLOY TO RAILWAY
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=blue=for-the-badge&logo=railway'/></a></p>
 
 --------
 
