@@ -34,22 +34,30 @@
     <br>
     <a href='https://replit.com/github.com/errrbodyhatescylee/Queen_Kylie-V1 target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
+
+
+    #### DEPLOY IN KOYEB
+
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+--------
+
 ## THIS SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 
   
-  #### ```HAKI PROFILE VIEWS 🧚```
+  #### ```Kylie PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/cylee/count.svg)
 
 <a><img src='https://files.catbox.moe/olcl5p.jpg'/></a><a><img src='https://files.catbox.moe/olcl5p.jpg'/></a>
 
 
-## Support ME
+## Support ME 👸❤️🧸
 
 SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/errrbodyhatescylee)
+### Please Give One Star ✨ & [follow me notify my updates 👸❤️🧸](https://github.com/errrbodyhatescylee)
 <b>Version -> 1.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
