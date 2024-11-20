@@ -97,6 +97,14 @@
 
 <a><img src='https://files.catbox.moe/olcl5p.jpg'/></a><a><img src='https://files.catbox.moe/1f0ool.jpg'/></a>
 
+## ```Connect With Me```<img src="https://files.catbox.moe/g3wwyk.jpg" width ="80"></h1> 
+<br>
+<p align="center">
+<a href="https://wa.me/27615045572"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VavkrOID38CSgcyfbM07"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">
+<img alt="Development" width="250" src="https://i.imgur.com/Vat6Eox.jpeg" /> </p>
+
 
 ## Support ME 👸❤️🧸
 
