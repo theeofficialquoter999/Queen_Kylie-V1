@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://files.catbox.moe/ht8jwb.mp4" alt="Queen_Kylie-V1 Banner" width="450" style="border-radius: 15px;"/>
+</p>
+
  <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=👸+Queen+Kylie+V1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Cadillac+Cylee" alt="Typing SVG Animation" />
