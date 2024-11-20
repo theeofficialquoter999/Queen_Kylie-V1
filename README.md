@@ -1,4 +1,10 @@
- 
+ <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=👸+Queen+Kylie+V1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Cadillac+Cylee" alt="Typing SVG Animation" />
+  </a>
+</p>
+
+
  ## Deployment Methods
 
 ### 1. FORK THE QUEEN'S REPO 👸❤️🧸
