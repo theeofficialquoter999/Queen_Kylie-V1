@@ -23,11 +23,11 @@ smd(
       // Extract the query from the message
       const query = m.text.split(' ').slice(1).join(' ');
       if (!query) {
-        return await m.send("Please provide a query, e.g., `.gpt What is life?`.");
+        return await m.send("Give Kylie a query you dumb fuck 👸❤️🧸");
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("kylie is thinkin, hold your balls a Lil 👸❤️🧸•°•° ");
 
       // Define the API URL
       const apiUrl = `https://api.giftedtech.my.id/api/ai/gpt4-o?apikey=gifted&q=${encodeURIComponent(query)}`;
@@ -316,11 +316,11 @@ smd(
       // Extract the query from the message
       const query = m.text.split(' ').slice(1).join(' ');
       if (!query) {
-        return await m.send("Please provide a query, e.g., `.gemini What is the weather today?`.");
+        return await m.send("Give Kylie a query you dumb fuck 👸❤️🧸");
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("kylie is thinkin, hold your balls a Lil 👸❤️🧸•°•° 🤔");
 
       // Define the new API URL
       const apiUrl = `https://api.giftedtech.my.id/api/ai/geminiaipro?apikey=gifted&q=${encodeURIComponent(query)}`;
