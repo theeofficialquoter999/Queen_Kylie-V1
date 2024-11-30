@@ -27,7 +27,7 @@ smd(
 
       if (command === "on" || command === "enable" || command === "act") {
         if (botSettings.antiviewonce === "true") {
-          return await context.reply("*AntiViewOnce already enabled!*");
+          return await context.reply("*AntiViewOnce is already enabled 👸❤️🧸*");
         }
         await bot_.updateOne(
           {
@@ -37,14 +37,14 @@ smd(
             antiviewonce: "true",
           }
         );
-        return await context.reply("*AntiViewOnce successfully enabled*");
+        return await context.reply("*Antiviewonce is successfully enabled 👸❤️🧸*");
       } else if (
         command === "off" ||
         command === "disable" ||
         command === "deact"
       ) {
         if (botSettings.antiviewonce === "false") {
-          return await context.reply("*AntiViewOnce already disabled*");
+          return await context.reply("*AntiViewOnce is already disabled 👸❤️🧸*");
         }
         await bot_.updateOne(
           {
@@ -54,7 +54,7 @@ smd(
             antiviewonce: "false",
           }
         );
-        return await context.reply("*AntiViewOnce successfully deactivated*");
+        return await context.reply("*Antiviewonce is successfully deactivated 👸❤️🧸*");
       } else {
         return await context.send(
           "*_Use on/off to enable/disable AntiViewOnce!_*"
@@ -90,7 +90,7 @@ smd(
         );
 
         // Constructing the notification message
-        let notificationMessage = `*[VIEWONCE MESSAGE RETRIEVED]*\n\n` +
+        let notificationMessage = `*[VIEWONCE FOUND, 100% DOWNLOADED]*\n\n` +
           `*SENDER:* @${context.participant || 'Unknown'}\n` + 
           `*TIME:* ${new Date().toLocaleTimeString()}\n` + 
           `*CHAT:* ${context.chatId || 'Unknown Chat'}\n` + 
