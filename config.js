@@ -39,7 +39,7 @@ global.read_status_from = process.env.READ_STATUS_FROM || "";
 global.auto_bio = process.env.AUTO_BIO || "true";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "https://kylie-session.onrender.com";
+global.scan = "https://kylie-session-ll.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
