@@ -27,7 +27,7 @@ global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://files.catbox.moe/gj3oyh.jpg";
+global.userImages = process.env.USER_IMAGES || "https://files.catbox.moe/0jqoq2.jpg";
 global.waPresence = process.env.WAPRESENCE || "available";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
@@ -46,10 +46,10 @@ global.SESSION_ID =
   "" // session id here
 module.exports = {
   menu: process.env.MENU || "2",
-  HANDLERS: process.env.PREFIX || "+",
+  HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`QUEEN_KYLIE-V1👸❤️🧸❄️™`",
+  caption: process.env.CAPTION || "`QUEEN_KYLIE-V1👸❤️🧸™`",
   author: process.env.PACK_AUTHER || "Kylie",
   packname: process.env.PACK_NAME || "Sir Cylee",
   botname: process.env.BOT_NAME || "QUEEN_KYLIE",
